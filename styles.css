@@ -1,0 +1,73 @@
+body{
+    font-family: Kumbh Sans;
+    background: url(https://lh6.googleusercontent.com/uY_XiRfnThaqZQ4zAxlouiVFSdTbXm0emaPDTgf6BGvdy227PYUb1FjfXgUmEwXbI64=w2400) top-left no-repeat,
+    hsl(185, 75%, 39%);
+    background-position:
+    top right, 
+    bottom left;
+    background-repeat: no-repeat;
+}
+
+.card{
+    width: 300px;
+    height: 350px;
+    background-color: white;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 13px;
+}
+
+p{
+    color: hsl(0, 0%, 59%);
+}
+
+h3{
+    color:  hsl(229, 23%, 23%);
+}
+
+.background{
+    width: 300px;
+    z-index: 1;
+    border-radius: 13px 13px 0 0;
+}
+
+.pic{
+    z-index: 4;
+    margin-top: -55px;
+    margin-left: 100px;
+    border-radius: 50%;
+    border: 5px solid white;
+}
+
+.profile{
+    text-align: center;
+    margin-top: -10px;
+}
+
+span{
+    font-weight: lighter;
+    padding-left: 5px;
+    color: hsl(0, 0%, 59%);
+}
+
+.location{
+    margin-top: -5px;
+}
+
+.details{
+    padding-top: 10px;
+}
+
+.figures{
+    text-align: center;
+}
+
+.big{
+    display: inline;
+    padding: 0 25px
+}
+
+.little{
+    display: inline;
+    padding: 0 20px;
+}
